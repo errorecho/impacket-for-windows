@@ -1,5 +1,5 @@
 # impacket-for-windows
-由于impacket-examples-windows项目版本过时，导致某些工具新添的功能用不了（没错，说的就是你ntlmrelay），因此根据最新版impacket重新打包了一份
+由于impacket-examples-windows项目版本过时，导致某些工具新添的功能用不了（没错，说的就是你ntlmrelayx），因此根据最新版impacket重新打包了一份
 # 版本
 当前impacket最新版本为[0.9.24](https://github.com/SecureAuthCorp/impacket)
 # 打包环境
